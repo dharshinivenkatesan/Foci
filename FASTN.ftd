@@ -1,0 +1,5 @@
+-- import: fastn
+
+-- fastn.package: foci
+
+-- fastn.dependency: fastn-community.github.io/winter-cs

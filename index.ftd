@@ -1,0 +1,5 @@
+-- ftd.text: Hello World
+
+fastn serve 
+
+-- import: fastn-community.github.io/winter-cs
